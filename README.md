@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 
+I’m new to cybersecurity and currently learning:
+- Security fundamentals
+- Networking basics
+- Risk, privacy, and compliance concepts
 
-<!--
-**AnuoluwapoM/AnuoluwapoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career interest:
+- SOC Analyst (entry-level)
+- GRC / Cybersecurity Analyst
 
-Here are some ideas to get you started:
+📚 Current focus:
+- GitHub
+- Cybersecurity labs
+- Hands-on learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- LinkedIn: (add later)
